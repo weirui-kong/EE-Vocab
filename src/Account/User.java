@@ -1,7 +1,7 @@
 package Account;
 
 public class User {
-    String username;
-    String password;
-    String dataBase;
+    private String username;
+    private String password;
+    private String dataBaseIdentification;
 }
